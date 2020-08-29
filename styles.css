@@ -5,7 +5,6 @@ body {
     margin: 15px 25px 45px 25px;
     font-family: 'Amatic SC', cursive;
     letter-spacing: 3px;
-    
 }
 h1 {
     text-align: center;
@@ -16,6 +15,10 @@ h1 {
 h2, p, ol {
     text-align: left;
     font-size: 2.5rem;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px black solid;
 }
 footer {
     text-align: center;
